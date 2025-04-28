@@ -1,0 +1,24 @@
+bio01.studcs.uni-sb.de: Connection Timeout
+bio02.studcs.uni-sb.de: NVIDIA GPU Detected; Driver: Driver/Library Mismatch
+bio03.studcs.uni-sb.de: NVIDIA GPU Detected; Driver: Driver/Library Mismatch
+bio04.studcs.uni-sb.de: NVIDIA GPU Detected; Driver: Driver/Library Mismatch
+bio05.studcs.uni-sb.de: NVIDIA GPU Detected; Driver: Driver/Library Mismatch
+bio06.studcs.uni-sb.de: NVIDIA GPU Detected; Driver: Driver OK (v550.144.03)
+bio07.studcs.uni-sb.de: NVIDIA GPU Detected; Driver: Driver/Library Mismatch
+bio08.studcs.uni-sb.de: Connection Timeout
+bio09.studcs.uni-sb.de: NVIDIA GPU Detected; Driver: Driver OK (v550.163.01)
+bio10.studcs.uni-sb.de: NVIDIA GPU Detected; Driver: Driver/Library Mismatch
+bio11.studcs.uni-sb.de: NVIDIA GPU Detected; Driver: Driver/Library Mismatch
+bio12.studcs.uni-sb.de: NVIDIA GPU Detected; Driver: Driver/Library Mismatch
+bio13.studcs.uni-sb.de: NVIDIA GPU Detected; Driver: Driver/Library Mismatch
+bio14.studcs.uni-sb.de: NVIDIA GPU Detected; Driver: Driver/Library Mismatch
+bio15.studcs.uni-sb.de: NVIDIA GPU Detected; Driver: Driver/Library Mismatch
+bio16.studcs.uni-sb.de: Connection Timeout
+bio17.studcs.uni-sb.de: NVIDIA GPU Detected; Driver: Driver/Library Mismatch
+bio18.studcs.uni-sb.de: NVIDIA GPU Detected; Driver: Driver/Library Mismatch
+bio19.studcs.uni-sb.de: NVIDIA GPU Detected; Driver: Driver/Library Mismatch
+bio20.studcs.uni-sb.de: Connection Timeout
+bio21.studcs.uni-sb.de: NVIDIA GPU Detected; Driver: Driver/Library Mismatch
+bio22.studcs.uni-sb.de: NVIDIA GPU Detected; Driver: Driver/Library Mismatch
+bio23.studcs.uni-sb.de: Connection Timeout
+bio24.studcs.uni-sb.de: NVIDIA GPU Detected; Driver: Driver/Library Mismatch

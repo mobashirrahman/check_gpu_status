@@ -1,7 +1,2 @@
 # Ignore environment files with sensitive credentials
 .env
-
-# Ignore output files
-gpu_*.txt
-server_status.txt
-software_status.txt 
