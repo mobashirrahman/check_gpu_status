@@ -1,3 +1,8 @@
+# Intro
+
+The scripts addresses a minor inconvenience that I face in my life. Running computationally intensive pipelines and projects often requires the use of remote computers, as my personal laptop lacks the necessary power. I rely on designated PCs provided by the faculty/university, accessible via SSH. However, these PCs frequently go online or offline, or may not have nvdia-gpu accessible making it a hassle to find a working one. One of the script pings the PC addresses and  identifies which PCs are currently online and accessible via SSH. Another script checks if NVDIA hardware is present and drivers are correctly accessible.
+
+
 # Server Status Checkers
 
 This repository contains scripts to check the status of a range of servers.
